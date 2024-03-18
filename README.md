@@ -32,7 +32,9 @@
 **Binary Tree 為什麼被發明？** \
 ![Error](BinaryTree.png "Binary Tree 為什麼被發明") \
 **Binary Tree 與其它資料結構的比較：** \
-![Error](Comparison.png "Binary Tree 與其它資料結構的比較")
+![Error](Comparison.png "Binary Tree 與其它資料結構的比較") \
+**Binary Tree 程式實作練習：** \
+[Google Colab](https://colab.research.google.com/drive/1J3FEhZxwMUc6RJOhiQso_OJkQ_dprNpO?usp=sharing)
 
 專題連結區
 -------------
