@@ -22,7 +22,7 @@
 [PPT](https://docs.google.com/presentation/d/1E356joF2_dOmema7ki1Fh5rJ2l87XD-QU7xwpk_cbTY/edit#slide=id.p)
 
 ### Week 4
-[PPT](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=763821)
+[PPT](https://docs.google.com/presentation/d/1vwAhugIA8sGYY335p7dOT2ksgsXzp9ofk44BS7vOpy4/edit#slide=id.p)
 
 作業連結區
 -------------
