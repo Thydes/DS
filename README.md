@@ -27,8 +27,8 @@
 作業連結區
 -------------
 ### Week 4
-Task:Binary Tree
-GhatGPT:
+Task:Binary Tree \
+GhatGPT: \
 ![Error](Binary Tree 為什麼被發明.png "Binary Tree 為什麼被發明")
 
 專題連結區
