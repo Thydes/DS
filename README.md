@@ -27,9 +27,12 @@
 作業連結區
 -------------
 ### Week 4
-Task:Binary Tree \
-GhatGPT: \
-![Error](Binary Tree 為什麼被發明.png "Binary Tree 為什麼被發明")
+**Task:Binary Tree** \
+**GhatGPT:** \
+**Binary Tree 為什麼被發明？** \
+![Error](BinaryTree.png "Binary Tree 為什麼被發明") \
+**Binary Tree 與其它資料結構的比較：** \
+![Error](Comparison.png "Binary Tree 與其它資料結構的比較")
 
 專題連結區
 -------------
