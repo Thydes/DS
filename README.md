@@ -48,5 +48,11 @@
 [Baa Baa Black Sheep.txt](https://drive.google.com/file/d/1agjMIU781mWcYYyN5SlvukWzB917bzBt/view?usp=sharing) \
 [The Golden Goose.txt](https://drive.google.com/file/d/192gcmANOL8wc7-GBhRQ4pdesj9aorwmr/view?usp=sharing)
 
+### Week 8
+**Workshop** \
+[Fork LLMTwins](https://github.com/Thydes/LLMTwins)
+**在 Visual Studio Code 運行 LLMTwins** \
+![Error](VSCode.png "Visual Studio Code 運行 LLMTwins") \
+
 專題連結區
 -------------
