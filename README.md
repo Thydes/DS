@@ -50,9 +50,9 @@
 
 ### Week 8
 **Workshop** \
-[Fork LLMTwins](https://github.com/Thydes/LLMTwins)
+[Fork LLMTwins](https://github.com/Thydes/LLMTwins) \
 **在 Visual Studio Code 運行 LLMTwins** \
-![Error](VSCode.png "Visual Studio Code 運行 LLMTwins") \
+![Error](VSCode.png "Visual Studio Code 運行 LLMTwins")
 
 專題連結區
 -------------
