@@ -53,8 +53,8 @@
 [Fork LLMTwins](https://github.com/Thydes/LLMTwins) \
 **在 Visual Studio Code 運行 LLMTwins** \
 ![Error](VSCode.png "Visual Studio Code 運行 LLMTwins") \
-**用 Postman 呼叫 /health API** \
-![Error](Postman.png "用 Postman 呼叫 /\ health API")
+**用 Postman 呼叫 / \health API** \
+![Error](Postman.png "用 Postman 呼叫 /health API")
 
 專題連結區
 -------------
